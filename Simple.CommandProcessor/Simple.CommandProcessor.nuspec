@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Simple.CommandProcessor</id>
+    <version>$version$</version>
+    <authors>Andrew Chaa</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Client library to send command to command handler</description>
+  </metadata>
+  <files>
+    <file src="readme.txt" />
+  </files>
+</package>

@@ -1,0 +1,1 @@
+Powershell -NonInteractive -ExecutionPolicy RemoteSigned -Command ".\Invoke-Build.ps1"
